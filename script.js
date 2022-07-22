@@ -20,7 +20,7 @@ const bionicRead = async function () {
     const config = {
         headers: {
             'content-type': 'application/x-www-form-urlencoded',
-            "X-RapidAPI-Key": "36b8a549c8msheef6311c5717a93p18c557jsnedc848359f16",
+            "X-RapidAPI-Key": "",
             "X-RapidAPI-Host": "bionic-reading1.p.rapidapi.com"
         },
         data: {
